@@ -1,0 +1,19 @@
+{
+  "name": "bower-foundation-js",
+  "version": "4.2.3",
+  "authors": [
+    "Touzet David <dtouzet@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "main": [
+    "vendor/custom.modernizr.js",
+    "lib/foundation.js"
+  ]
+}
