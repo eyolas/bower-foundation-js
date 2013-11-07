@@ -3,5 +3,5 @@
 Bower package for [Zurb Foundation](https://github.com/zurb/foundation/) js.
 
 ```sh
-$ bower install bower-foundation-js
+$ bower install https://github.com/eyolas/bower-foundation-js
 ```
